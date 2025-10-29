@@ -25,7 +25,7 @@ export default function Home() {
         className="text-center mb-8"
       >
         <h1 className="text-6xl font-extrabold mb-4 bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 bg-clip-text text-transparent">
-          Linkly 🚀
+          QuickLink 🚀
         </h1>
         {isLoaded && user ? (
           <p className="text-gray-400 text-lg">
